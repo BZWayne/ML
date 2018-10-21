@@ -10,8 +10,11 @@ ex1data2.txt - Dataset for linear regression with multiple variables
 
 submit.m - Submission script that sends your solutions to our servers 
 
-[⋆] warmUpExercise.m - Simple example function in Octave/MATLAB [⋆] plotData.m - Function to display the dataset
-[⋆] computeCost.m - Function to compute the cost of linear regression [⋆] gradientDescent.m - Function to run gradient descent
+[⋆] warmUpExercise.m - Simple example function in Octave/MATLAB 
+[⋆] plotData.m - Function to display the dataset
+[⋆] computeCost.m - Function to compute the cost of linear regression 
+[⋆] gradientDescent.m - Function to run gradient descent
 [†] computeCostMulti.m - Cost function for multiple variables
-[†] gradientDescentMulti.m - Gradient descent for multiple variables [†] featureNormalize.m - Function to normalize features
+[†] gradientDescentMulti.m - Gradient descent for multiple variables 
+[†] featureNormalize.m - Function to normalize features
 [†] normalEqn.m - Function to compute the normal equations
